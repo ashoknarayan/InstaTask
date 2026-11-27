@@ -13,5 +13,12 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 * **Hobbies & Interests:** Spending time with friends.
 * **Author:** Ashok
 
----
 
+### Tausif
+
+* **Roll Number:** CH24B069
+* **Fun / Interesting Fact:** Arsenal ride-or-die
+* **Hobbies & Interests:** Playing Football
+* **Author:** Harshita
+
+---
