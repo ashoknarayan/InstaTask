@@ -31,3 +31,13 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 * **Author:** Harshita
 
 ---
+
+### Kavita
+
+* **Roll Number:** CE24B106
+* **Fun / Interesting Fact:** 
+* **Hobbies & Interests:** Listening to music, singing
+* **Author:** Srivijay
+
+---
+
