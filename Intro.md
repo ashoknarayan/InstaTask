@@ -21,8 +21,7 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 * **Hobbies & Interests:** Badminton and Travelling with family
 * **Author:** Gagan Sai
 ---
-  
----
+
 ### Tausif
 
 * **Roll Number:** CH24B069
