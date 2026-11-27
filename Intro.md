@@ -31,7 +31,7 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 * **Author:** Harshita
 
 ---
-### Harika
+### Prathiv
 
 * **Roll Number:** CH24B085
 * **Fun / Interesting Fact:** Watching late night football games
