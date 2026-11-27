@@ -14,10 +14,20 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 * **Author:** Ashok
 
 ---
-
 ### Shaik Shafiya Tabassum
 
 * **Roll Number:** EE24B144
 * **Fun / Interesting Fact:** Her name has two pronounciations "Sha-fi-ya" and  "Shaa-fi-ya" and she responds to both.
 * **Hobbies & Interests:** Badminton and Travelling with family
 * **Author:** Gagan Sai
+---
+  
+---
+### Tausif
+
+* **Roll Number:** CH24B069
+* **Fun / Interesting Fact:** Arsenal ride-or-die
+* **Hobbies & Interests:** Playing Football
+* **Author:** Harshita
+
+---
