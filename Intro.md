@@ -31,6 +31,12 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 * **Author:** Harshita
 
 ---
+### Prathiv
+
+* **Roll Number:** CH24B085
+* **Fun / Interesting Fact:** Watching late night football games
+* **Hobbies & Interests:** Playing chess and story-driven games
+* **Author:** Harika
 
 
 ### Pavuluri Navadeep 
