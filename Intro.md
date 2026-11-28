@@ -74,3 +74,14 @@ awake for 45 hours and then sleep for 24 hrs continuously.
 * **Hobbies & Interests:** Playing Volleyball,
 Watching anime and Investing.
 * **Author:** Pavuluri Navadeep
+
+---
+
+### Ishan
+
+* **Roll Number:** EE25B057
+* **Fun / Interesting Fact:** Can identify constellations in a clear sky.
+* **Hobbies & Interests:** Swimming and Astronomy.
+* **Author:** Ananya
+
+---
