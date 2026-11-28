@@ -31,6 +31,12 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 * **Author:** Harshita
 
 ---
+## Harika
+
+* **Roll Number:** CS25B087
+* **Fun / Interesting Fact:** Spends too much time to pick a movie and decides not to watch it(cuz its late).
+* **Hobbies & Interests:** Reading Novels, Watching movies.
+* **Author:** Dinesh
 ### Dinesh Prasad Reddy
 
 * **Roll Number:**  EE24B085
