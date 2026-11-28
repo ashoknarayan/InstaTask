@@ -41,3 +41,11 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 * **Author:** Shaik Shafiya Tabassum
 
 ---
+### Dinesh Prasad Reddy
+
+* **Roll Number:**  EE24B085
+* **Fun / Interesting Fact:** He can stay
+awake for 45 hours and then sleep for 24 hrs continuously.
+* **Hobbies & Interests:** Playing Volleyball,
+Watching anime and Investing.
+* **Author:** Pavuluri Navadeep
