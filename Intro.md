@@ -34,7 +34,7 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 ### Kavita
 
 * **Roll Number:** CE24B106
-* **Fun / Interesting Fact:** 
+* **Fun / Interesting Fact:** Likes watching movies and series
 * **Hobbies & Interests:** Listening to music, singing
 * **Author:** Srivijay
 
