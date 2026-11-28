@@ -14,9 +14,33 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 * **Author:** Ashok
 
 ---
+### Shaik Shafiya Tabassum
 
 ### SriVijay
 * **Roll Number:** EE24B146
 * **Fun / Interesting Fact:** Has a thing for bitter stuff.
 * **Hobbies & Interests:** Playing Chess
 * **Author:** Prathiv
+* **Roll Number:** EE24B144
+* **Fun / Interesting Fact:** Her name has two pronounciations "Sha-fi-ya" and  "Shaa-fi-ya" and she responds to both.
+* **Hobbies & Interests:** Badminton and Travelling with family
+* **Author:** Gagan Sai
+---
+  
+---
+### Tausif
+
+* **Roll Number:** CH24B069
+* **Fun / Interesting Fact:** Arsenal ride-or-die
+* **Hobbies & Interests:** Playing Football
+* **Author:** Harshita
+
+---
+### Dinesh Prasad Reddy
+
+* **Roll Number:**  EE24B085
+* **Fun / Interesting Fact:** He can stay
+awake for 45 hours and then sleep for 24 hrs continuously.
+* **Hobbies & Interests:** Playing Volleyball,
+Watching anime and Investing.
+* **Author:** Pavuluri Navadeep
