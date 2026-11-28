@@ -31,6 +31,16 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 * **Author:** Harshita
 
 ---
+
+
+### Pavuluri Navadeep 
+
+* **Roll Number:** DA25B029
+* **Fun / Interesting Fact:**  Doesn't know how to ride a cycle .
+* **Hobbies & Interests:** Watching movies , listening to songs , playing chess
+* **Author:** Shaik Shafiya Tabassum
+
+---
 ## Harika
 
 * **Roll Number:** CS25B087
