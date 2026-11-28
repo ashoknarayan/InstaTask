@@ -15,3 +15,8 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 
 ---
 
+### SriVijay
+* **Roll Number:** EE24B146
+* **Fun / Interesting Fact:** Has a thing for bitter stuff.
+* **Hobbies & Interests:** Playing Chess
+* **Author:** Prathiv
