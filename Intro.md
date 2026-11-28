@@ -74,3 +74,10 @@ awake for 45 hours and then sleep for 24 hrs continuously.
 * **Hobbies & Interests:** Playing Volleyball,
 Watching anime and Investing.
 * **Author:** Pavuluri Navadeep
+
+### Tanvi
+
+* **Roll Number:** ME25B132
+* **Fun / Interesting Fact:** Can doom scroll for 12 hrs a day
+* **Hobbies & Interests:** Dancing , watching movies and web series, listening to music and playing basketball
+* **Author:** Shubra
