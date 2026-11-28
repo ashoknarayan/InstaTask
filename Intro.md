@@ -35,6 +35,14 @@ Welcome to our open-source practice repo! Instead of writing your own bio, pair 
 * **Hobbies & Interests:** Playing Football
 * **Author:** Harshita
 
+
+### Ananya
+
+* **Roll Number:** CS25B008
+* **Fun / Interesting Fact:** Likes taking pictures of random moments
+* **Hobbies & Interests:** Badminton, Music
+* **Author:** Tausif
+
 ---
 ### Prathiv
 
